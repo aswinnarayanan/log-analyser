@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#hello
 # --- Configuration ---
 # Directory containing the Nginx log files
 LOG_DIR="/var/log/nginx"
